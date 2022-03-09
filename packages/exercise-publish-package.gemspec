@@ -3,9 +3,9 @@ Gem::Specification.new do |s|
     s.version = "0.0.0"
     s.authors = ['Eldrick.Inc']
     s.date = %q{2011-09-29}
-    s.summary = %q{sample_gem is the best}
+    s.summary = %q{exercise-publish-package is the best}
     s.files = [
-      "lib/sample_gem.rb"
+      "lib/exercise-publish-package.rb"
     ]
     s.require_paths = ["lib"]
   end
