@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-    s.name = %q{sample_gem}
+    s.name = %q{exercise-publish-package}
     s.version = "0.0.0"
     s.authors = ['Eldrick.Inc']
     s.date = %q{2011-09-29}
