@@ -1,0 +1,8 @@
+---
+:backtrace: false
+:bulk_threshold: 1000
+:sources:
+- https://rubygems.org/
+- https://Eldrick19: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@rubygems.pkg.github.com/Eldrick19/
+:update_sources: true
+:verbose: true  
