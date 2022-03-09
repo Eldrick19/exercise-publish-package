@@ -2,7 +2,7 @@ name: Ruby Gem Package
 
 on:
   release:
-    types: [created, edited, released]
+    types: [created]
 
 jobs:
   build:
